@@ -37,6 +37,8 @@
 * определяет максимальное и минимальное значение функции.\
 Вариант 5.\
 ![Рис.0 Функция](https://github.com/NEGLEB/Pro/blob/8a7c4f3eb79544d08b582754373e339a7550de58/Images_for_lab2/formula.PNG?raw=true)
+\
+*рис.0: Функциия*
 
 ```C++
 #include <iostream>
